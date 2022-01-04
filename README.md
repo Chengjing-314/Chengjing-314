@@ -1,5 +1,7 @@
 [![Chengjing's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chengjing-314&show-icons=true&theme=tokyonight)](https://github.com/Chengjing-314/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chengjing-314)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Chengjing-314/Chengjing-314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
