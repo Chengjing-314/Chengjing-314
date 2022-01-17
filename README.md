@@ -1,4 +1,4 @@
-[![Chengjing's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chengjing&show-icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Chengjing's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chengjing-314&show-icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chengjing-314&layout=compact&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
