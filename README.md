@@ -1,5 +1,6 @@
 
 ### VTEC IS THE BEST
+![vtec_kick_in](https://github.com/Chengjing-314/Chengjing-314/blob/main/vtec.gif)
 <!--
 **Chengjing-314/Chengjing-314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
