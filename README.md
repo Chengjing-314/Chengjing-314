@@ -1,4 +1,4 @@
-[HI](https://www.bilibili.com/video/BV1ea4y1W7x1)
+[HI!](https://www.bilibili.com/video/BV1ea4y1W7x1)
 <!--
 **Chengjing-314/Chengjing-314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
